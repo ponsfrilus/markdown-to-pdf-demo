@@ -1,0 +1,4 @@
+tex2pdf.*
+output/*.pdf
+output/demo/*.pdf
+input/sample_tmp.md

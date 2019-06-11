@@ -1,0 +1,215 @@
+aakar
+Abyssinica SIL
+Andale Mono
+Ani
+AnjaliOldLipi
+Anton
+Arial
+Arial Black
+Bitstream Charter
+Bitstream Vera Sans
+Bitstream Vera Sans Mono
+Bitstream Vera Serif
+Century Schoolbook L
+Chandas
+Chilanka
+Comic Sans MS
+Courier
+Courier 10 Pitch
+Courier New
+DejaVu Math TeX Gyre
+DejaVu Sans
+DejaVu Sans Mono
+DejaVu Serif
+Dingbats
+Droid Sans Fallback
+Dyuthi
+FreeMono
+FreeSans
+FreeSerif
+Gargi
+Garuda
+Georgia
+GFS Baskerville
+GFS Porson
+Gubbi
+Impact
+Jamrul
+KacstArt
+KacstBook
+KacstDecorative
+KacstDigital
+KacstFarsi
+KacstLetter
+KacstNaskh
+KacstOffice
+KacstOne
+KacstPen
+KacstPoster
+KacstQurn
+KacstScreen
+KacstTitle
+KacstTitleL
+Kalapi
+Kalimati
+Karumbi
+Keraleeyam
+Khmer OS
+Khmer OS System
+Kinnari
+Laksaman
+Latin Modern Math
+Latin Modern Mono
+Latin Modern Mono Caps
+Latin Modern Mono Light
+Latin Modern Mono Light Cond
+Latin Modern Mono Prop
+Latin Modern Mono Prop Light
+Latin Modern Mono Slanted
+Latin Modern Roman
+Latin Modern Roman Caps
+Latin Modern Roman Demi
+Latin Modern Roman Dunhill
+Latin Modern Roman Slanted
+Latin Modern Roman Unslanted
+Latin Modern Sans
+Latin Modern Sans Demi Cond
+Latin Modern Sans Quotation
+Lato
+Liberation Mono
+Liberation Sans
+Liberation Sans Narrow
+Liberation Serif
+Likhan
+LKLUG
+Lohit Assamese
+Lohit Bengali
+Lohit Devanagari
+Lohit Gujarati
+Lohit Gurmukhi
+Lohit Kannada
+Lohit Malayalam
+Lohit Odia
+Lohit Tamil
+Lohit Tamil Classical
+Lohit Telugu
+Loma
+Manjari
+MathJax_AMS
+MathJax_Caligraphic
+MathJax_Fraktur
+MathJax_Main
+MathJax_Math
+MathJax_SansSerif
+MathJax_Script
+MathJax_Size1
+MathJax_Size2
+MathJax_Size3
+MathJax_Size4
+MathJax_Typewriter
+MathJax_Vector
+MathJax_Vector\-Bold
+MathJax_WinChrome
+MathJax_WinIE6
+Meera
+Melankolis
+Mitra Mono
+mry_KacstQurn
+Mukti Narrow
+Nakula
+Navilu
+Nimbus Mono L
+Nimbus Roman No9 L
+Nimbus Sans L
+Norasi
+Noto Color Emoji
+Noto Mono
+Noto Sans CJK JP
+Noto Sans CJK KR
+Noto Sans CJK SC
+Noto Sans CJK TC
+Noto Sans Mono CJK JP
+Noto Sans Mono CJK KR
+Noto Sans Mono CJK SC
+Noto Sans Mono CJK TC
+Noto Serif CJK JP
+Noto Serif CJK KR
+Noto Serif CJK SC
+Noto Serif CJK TC
+Open Sans
+Open Sans Condensed
+OpenSymbol
+ori1Uni
+Padauk
+Padauk Book
+padmaa
+padmmaa
+Pagul
+Phetsarath OT
+Pothana2000
+PowerlineSymbols
+Purisa
+Rachana
+RaghuMalayalam
+Rekha
+RobotoMono Nerd Font Mono
+Romeral
+Saab
+Sahadeva
+Samanata
+Samyak Devanagari
+Samyak Gujarati
+Samyak Malayalam
+Samyak Tamil
+Sarai
+Sawasdee
+Shorelines Script Bold
+Silhouette
+Simplicity
+Standard Symbols L
+Suruma
+Symbola
+TerminessTTF Nerd Font
+TerminessTTF Nerd Font Mono
+Terminus
+TeX Gyre Adventor
+TeX Gyre Bonum
+TeX Gyre Bonum Math
+TeX Gyre Chorus
+TeX Gyre Cursor
+TeX Gyre DejaVu Math
+TeX Gyre Heros
+TeX Gyre Heros Cn
+TeX Gyre Pagella
+TeX Gyre Pagella Math
+TeX Gyre Schola
+TeX Gyre Schola Math
+TeX Gyre Termes
+TeX Gyre Termes Math
+Tibetan Machine Uni
+Times New Roman
+Tlwg Mono
+Tlwg Typewriter
+Tlwg Typist
+Tlwg Typo
+Trebuchet MS
+Twitter Color Emoji
+Ubuntu
+Ubuntu Condensed
+Ubuntu Mono
+UbuntuMono Nerd Font
+UbuntuMono Nerd Font Mono
+Ubuntu Nerd Font Mono
+Umpush
+Uroob
+URW Bookman L
+URW Chancery L
+URW Gothic L
+URW Palladio L
+Utopia
+Vemana2000
+Verdana
+VL Gothic
+VL PGothic
+Waree
+Webdings

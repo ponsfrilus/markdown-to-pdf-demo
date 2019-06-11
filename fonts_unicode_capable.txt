@@ -1,0 +1,48 @@
+Andale Mono
+Arial
+Arial Black
+Courier New
+DejaVu Math TeX Gyre
+DejaVu Sans
+DejaVu Sans Mono
+DejaVu Serif
+Dingbats
+FreeMono
+FreeSans
+FreeSerif
+Impact
+Latin Modern Math
+Liberation Mono
+Liberation Sans
+Liberation Sans Narrow
+Liberation Serif
+MathJax_Vector\-Bold
+Noto Color Emoji
+Noto Sans CJK JP
+Noto Sans CJK KR
+Noto Sans CJK SC
+Noto Sans CJK TC
+Noto Sans Mono CJK JP
+Noto Sans Mono CJK KR
+Noto Sans Mono CJK SC
+Noto Sans Mono CJK TC
+Noto Serif CJK JP
+Noto Serif CJK KR
+Noto Serif CJK SC
+Noto Serif CJK TC
+padmaa
+padmmaa
+Symbola
+TerminessTTF Nerd Font
+TerminessTTF Nerd Font Mono
+Terminus
+TeX Gyre Adventor
+TeX Gyre Bonum Math
+TeX Gyre DejaVu Math
+TeX Gyre Pagella
+TeX Gyre Pagella Math
+TeX Gyre Schola Math
+TeX Gyre Termes Math
+Times New Roman
+VL Gothic
+VL PGothic
